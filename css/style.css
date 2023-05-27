@@ -741,6 +741,9 @@ flex-direction: column-reverse;
 
 
 @media (max-width: 575px) {
+    .slider-Shop-now,footer{
+        overflow-x: hidden !important;
+    }
 nav .navbar ul {
 width: 132px;}
 footer  .middle-footer .section.categoriess {
@@ -856,7 +859,7 @@ margin-bottom: 22px;
 }
 
 .arrow-up img{
-width: 30px;
+width: 60px;
 }
 .carousel-caption {
 top:0% !important;
